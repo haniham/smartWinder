@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name ownLib)(type Legacy)(uri ${KIPRJMOD}/ownLib.lib)(options "")(descr ""))
+  (lib (name Cap-SMD)(type Legacy)(uri ${KIPRJMOD}/Cap-SMD.lib)(options "")(descr ""))
+)

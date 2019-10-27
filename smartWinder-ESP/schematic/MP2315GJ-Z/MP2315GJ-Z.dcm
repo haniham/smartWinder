@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MP2315GJ-Z
+D Switching Voltage Regulators 3A 24V 500kHz Sync buck
+K
+F https://componentsearchengine.com/Datasheets/1/MP2315GJ-Z.pdf
+$ENDCMP
+#
+#End Doc Library

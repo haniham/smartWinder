@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP XL1509-ADJE1
+D DC-DC Converters Step-Down Adjustable 1 4.5V 40V 1.23V 37V 2A SOP-8_150mil RoHS
+K
+F https://datasheet.lcsc.com/szlcsc/XLSEMI-XL1509-ADJE1_C74192.pdf
+$ENDCMP
+#
+#End Doc Library

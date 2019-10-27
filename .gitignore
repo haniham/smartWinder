@@ -1,0 +1,7 @@
+
+*.dcm
+*.lib
+*.bck
+*.mod
+*.kicad_mod
+*.sch-bak
